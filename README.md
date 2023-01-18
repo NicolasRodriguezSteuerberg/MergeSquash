@@ -27,3 +27,6 @@ en IntelliJ merge—squash lider<br>
 git commit -m "squash lider"<br>
 git push -u origin main<br>
 echo "git init" >> README.md<br>
+git add README.md
+git commit -m "README añadido"
+git push
